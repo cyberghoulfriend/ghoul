@@ -1,2 +1,2 @@
 # ghoul
-friend finder from beyond
+Cyber Ghoul Finder for friending findings.
